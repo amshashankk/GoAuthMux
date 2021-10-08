@@ -16,6 +16,7 @@ import (
 	"golang.org/x/crypto/bcrypt"
 )
 
+// Currently, learning about the key in JWT
 var SECRET_KEY = []byte("gosecretkey")
 
 type User struct {
