@@ -2,4 +2,4 @@
 Golang Authentication API using GorillaMux &amp; MongoDB
 
 
-### On catabsae connection put your Mongo Database URL
+### On Database connection put your Mongo Database URL
